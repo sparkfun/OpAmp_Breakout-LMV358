@@ -3030,6 +3030,7 @@ Basic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (sma
 <sheet>
 <plain>
 <text x="101.6" y="68.58" size="2.54" layer="94" ratio="15">Av = (R1/R2)*(R4/R5) = 100</text>
+<text x="238.76" y="7.62" size="1.778" layer="94">V16</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
